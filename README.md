@@ -1,2 +1,3 @@
 # examplename
-For illustrative Handshake usage
+
+> for illustrative Handshake usage
